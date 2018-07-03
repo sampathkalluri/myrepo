@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 30FF-EA4F
+
+ Directory of C:\Users\sampathkumar\Desktop\MyProject
+
+03-Jul-18  12:07 PM    <DIR>          .
+03-Jul-18  12:07 PM    <DIR>          ..
+03-Jul-18  12:07 PM               347 .txt
+03-Jul-18  12:07 PM                 0 text.txt
+               2 File(s)            347 bytes
+               2 Dir(s)  53,101,760,512 bytes free
